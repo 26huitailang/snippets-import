@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Personal Email", "text": "sherlock@gmail.com", "keyword": "@@"
+  },
+  {
+    "name": "Home Address", "text": "221B Baker St., London"
+  },
+  {
+    "name": "Catchphrase 1", "text": "Elementary, my dear Watson", "keyword": "!elementary"
+  }
+]
